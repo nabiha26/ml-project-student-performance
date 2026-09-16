@@ -1,0 +1,10 @@
+1. Find the minimum mark and standard deviation.
+2. Add 5 bonus marks to every student without changing the original array.
+3. Count how many students passed.
+4. Create a 2 × 3 matrix from the marks.
+5. Which columns are features? Which column is the label?
+6. How many samples and columns are present?
+7. Filter students with attendance of at least 80.
+8. Calculate average study hours for students who passed.
+9. Sort the DataFrame by attendance in descending order.
+10. Does this tiny dataset prove that snack purchases cause failure? Explain why or why not.
