@@ -1,0 +1,10 @@
+Problem: Predict whether a student will Pass or Fail.
+
+Baseline Accuracy: 1.0
+Improved Model Accuracy: 1.0
+
+So:
+
+Logistic Regression: 1.0 = 100% accuracy
+
+Random Forest: 1.0 = 100% accuracy
